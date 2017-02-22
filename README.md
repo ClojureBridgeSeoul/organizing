@@ -1,34 +1,32 @@
-# Get involved
+# 시작하기
 
-ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
+ClojureBridge는 기술 분야에 종사하는 소수자들을 위해 무료로 초보자들도 쉽게할 수 있는 프로그래밍 워크샵을 제공함으로써 Clojure 커뮤니티 내에서 다양성을 증가시키는 것을 목표로 하고 있습니다.
 
+저번 워크샵은 여성 위주로 진행되었습니다. 워크샵을 준비할 때 주최자들은 자유롭게 다른 소수자 대상을 고를 수 있습니다. 워크샵의 설명은 워크샵이 개최되어야 하는 그룹 또는 그룹을 명시해야 합니다.
 
-Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
+ClojureBridge는 2014년에 시작되었고 [Bridge Foundry](http://bridgefoundry.org/)에 속해있습니다. 전세계적으로 당신과 같은 사람들이 워크샵을 진행해왔습니다! 많은 사람들이 다양한 방법으로 자원했습니다. 다음은 참여에 필요한 몇가지 사항을 알려드리겠습니다:
 
+##무엇을 할 수 있나요?
 
-ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). All around the world there have been workshops organized by people like you! Many people volunteered in different ways. Here are some insights for you to get involved:
+여러분들이 기여할 수 있는 방법은 많습니다. 예를들어...
 
-## What can you do?
+###...만드세요!
 
-There are different ways you can contribute. Maybe you like to...
+당신의 분야에서 워크샵을 진행하고 싶으신가요? 좋아요! 시작해봅시다! [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimun-Viable-Workshop.md)를 찾으려면 다음을 준비하세요.
 
-###...organize!
+- **개최지:** 학습자들이 Clojure를 향한 첫 발을 떼기에 안전하고 조용한 공간입니다. 사무실의 여가 공간이나 협업 공간이 괜찮을 것 같습니다.
+- **날짜 :** ClojureBridge는 이틀간의 워크샵입니다. 즉, 리허설 날(예:금요일 오후 5시부터 오후 8시까지)과 워크샵 날(예:토요일 오전 9시, 오후 6시)을 준비해야 합니다.
+더해서, 행사 전에 코치들의 트레이닝이 있습니다. 코치에게 어떻게 가르치는지 일깨우기 위해서입니다. 이 트레이닝은 이벤트가 일어나기 전 밤에(예:2주) 할 수 있습니다.
+- **코치 :** 코치들은 참석자들을 가르치는 것을 도와줍니다. 참석자 두 명에 한 명의 코치가 적당한 비율입니다.
+- **참석자 :**참석자들이 워크샵에서 가장 중요합니다. 참석자들을 메일, 소셜미디어, 포스터, 전단지 등으로 초대하세요. 참석자들은 여성이거나 기술분야에 종사하는 소수자들이어야 합니다. 이곳을 더 읽어 보세요. [men's attendance here](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md).
 
-You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md) you need to find: 
+저희는 여러분들이 이곳[workshop mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops)에 가입하시길 원합니다. 여러분이 날짜와 장소를 정하면 GitHub의 [workshops repository](https://github.com/ClojureBridge/Workshops)에서 이슈를 받겠습니다.
 
-- **A venue:** A safe and quiet space for learners to take their first steps in Clojure. An office leisure space or a co-working space might work.
-- **A date:** ClojureBridge is a two-day workshop. Which means you need to find a date for the install party (e.g. Friday evening from 5 PM - 8 PM) and a date for the workshop day (e.g. Saturday 9 AM - 6 PM).
-Moreover, there should be a coaches training before the event. To raise awareness on how to coach. This training can be one evening (e.g. 2 weeks) before the event.
-- **Coaches:** Coaches help you to teach the attendees. One coach for two attendees is a good ratio.
-- **Attendees:** The attendees are the most important part of the workshop. Invite them via mailing lists, social media, posters, flyers etc. Attendees should be women or people from underrepresented groups in tech. Read more about [men’s attendance here](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md).
+GitHub의 [organizing repository](https://github.com/ClojureBridge/organizing)에서 많은 정보를 찾아보실 수 있고 이곳을 참고하세요 [Workshop Planning Timeline](Workshop-Planning-Timeline.md). [Resources on Diversity](Resources-on-Diversity.md)에는 다양하고 포괄적인 행사를 만드는 방법에 대한 훌륭한 리소스들이 아주 많습니다. 얼마든지 이 문서들을 읽고 기여해주십시오.
 
-We recommend you to join our [workshop mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops). When you decided for a date and have found a venue we are happy to receive your information via an issue in our [workshops repository](https://github.com/ClojureBridge/Workshops) on GitHub. Then we will publish your workshop on our website and assign you a mentor who can help you with answers to questions and by providing resources and information.
+ClojureBridge는 BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/)를 따릅니다.
 
-You can find lots of information in our [organizing repository](https://github.com/ClojureBridge/organizing) on GitHub and read about the [Workshop Planning Timeline](Workshop-Planning-Timeline.md). [Resources on Diversity](Resources-on-Diversity.md) provides a number of great resources on how to create a diverse, inclusive event. Feel free to read and contribute to these documents.
-
-ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/).
-
-Last, but not least, you might want to find some sponsors. They can help you provide awesome food, drinks or fancy swag for your learners so that this workshop will stay a memorable event.
+마지막으로 가장 중요하게, 여러분들이 후원자를 찾고 계실지도 모릅니다. 후원자들은 학습자들에게 이번 워크샵이 기억될 수 있도록 훌륭한 음식과 마실 것을 지원해 줄 수 있습니다.
 
 
 ###...코치님!
