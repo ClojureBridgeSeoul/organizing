@@ -30,32 +30,35 @@ ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.o
 
 Last, but not least, you might want to find some sponsors. They can help you provide awesome food, drinks or fancy swag for your learners so that this workshop will stay a memorable event.
 
-###...coach!
 
-As a coach you and your co-coach will teach a small group of attendees Clojure and fundamental programming principles at the workshop. This way you can help to start new carriers in tech. Have a look at our [curriculum](https://clojurebridge.github.io/curriculum/#/1). Coaching is an awesome experience. It helps you understand Clojure better and to practice your explaining skills which is also useful for work.
+###...코치님!
 
-###...be a teaching assistant!
+당신과 당신의 동료들은 참석자들의 소그룹에 클로저와 기본적인 프로그래밍 원리들을 가르칠 것입니다. 이 과정은 당신이 기술분야에서 새로운 커리어를 시작하는데 도움을 줄 수 있습니다. 여기 우리의 [커리큘럼](https://clojurebridge.github.io/curriculum/#/1)을 참고하세요. 코칭과정은 멋진 경험이 될 것 입니다. 이것은 당신으로하여금 클로저를 더 잘 이해하고 또한 일을 하는데 유용한 설명 기술을 연습하도록 도와줄 것입니다.
 
-As a teaching assistant or a “floating coach” you also help attendees learn Clojure. You are not assigned to a fixed group but you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself. 
+###...조교가 되어보세요!
 
-###...sponsor or donate!
+조교 또는 "플로킹 코치"로써 당신은 또한 참석자들이 클로저를 배우는 것을 도와줄 수 있습니다. 당신은 한 그룹에 소속되지 않고 돌아다니면서 질문이 생기면 도와줄 수 있습다. 당신이 스스로 클로저를 배우기 시작했다면 조교가 되는 것은 아마 당신의 일일지도 모릅니다.
 
-What would ClojureBridge be without our sponsors? Many great companies and private people have sponsored ClojureBridge workshops. With their help it was possible to provide food, drinks, T-shirts, notebooks and stickers for the attendees at different workshops. 
-You can help by sponsoring the workshop in your area or abroad but also a [donation to ClojureBridge](http://www.clojurebridge.org/donate) is very welcome to help us spread the word, run our servers etc.
+###...후원하거나 기부하세요!
 
-###...help improve the curriculum!
+우리의 후원자가 없다면 클로저브릿지는 어떻게 됐을까요? 많은 좋은 회사들과 개인들이 클로저브릿지 워크샵을 후원해주고 있습니다. 그들의 도움덕분에 각기 다른 워크샵에서 참석자들에게 음식,음료,티셔츠,노트 그리고 스티커들을 제공하는 것이 가능해졌습니다.
+당신도 당신의 지역 혹은 해외의 워크샵을 후원하거나 [클로저 브릿지에 기부하기](http://www.clojurebridge.org/donate)를 통해 우리가 클로저를 세계에 퍼트리고, 우리의 서버를 운영하는 등의 일에 도움을 줄 수 있습니다. 
 
-Our curriculum can be found in our [curriculum repository](https://github.com/ClojureBridge/curriculum). You are very welcome to [join our curriculum mailing list](https://groups.google.com/forum/#!forum/clojurebridge-curriculum) and share your ideas.
 
-###...spread the word!
+###...커리큘럼을 개선하는데 도와주세요!
 
-Last, but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend! 
+우리의 커리큘럼은 [curriculum repository](https://github.com/ClojureBridge/curriculum)에서 찾을 수 있습니다. [커리큘럼 메일링 리스트](https://groups.google.com/forum/#!forum/clojurebridge-curriculum)에가입하고 당신의 아이디어를 공유해 주세요.
+
+###...세계에 널리 알리세요!
+
+마지막으로 당신은 클로저브릿지를 세계에 퍼트리는 것을 도울 수 있습니다. 클로저브릿지를 당신의 주변인들(특히 여성)에게 소개하세요. 당신이 찾은 클로저브릿지에 대한 모든 것을 리트윗하고 포스트하고 공유하세요. 여성들에게 당신이 클로저브릿지에 대해 알고있고 사랑하는 것들을 알리고 그들로하여금 참석하도록 권장하세요!
+
 
 ----
 
-# Contact
+# 연락하세요
 
-Please mail us if you have any questions: <info@clojurebridge.org>
+질문이 있다면 우리에게 메일을 보내세요: <info@clojurebridge.org>
 
 ----
 
