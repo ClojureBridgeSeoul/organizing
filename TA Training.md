@@ -4,7 +4,7 @@
 
 * **RailsBridge 교사 연수 슬라이드를 참조하세요.**
 
-  http://docs.railsbridge.org/workshop/more_teacher_training에 있습니다.
+  http://docs.railsbridge.org/workshop/more_teacher_training 에 있습니다.
  
 * **교실의 배치를 고려하여 어떻게 학생들에게 다가갈지를 결정하세요.**
 
