@@ -1,24 +1,24 @@
-We **strongly** recommend running a teacher training event for your teachers and teaching assistants prior to the workshop. This teacher training session should generally be scheduled a few days prior to your workshop - this keeps it fresh in everyone's mind.
+저희는 워크샵 전에 선생님과 조교의 수업 연수를 **강력히** 추천합니다. 이 수업 연수는 일반적으로 워크샵 며칠 전에 진행됩니다. - 모두 염두해두시길 바랍니다.
 
-Teacher training generally covers two areas:
+수업 연수는 대체로 두 영역을 포함합니다.Teacher training generally covers two areas:
 
-* Being a good teacher and being sensitive to the students' needs
-* Agreeing on the style of how the workshop will run
+* 좋은 선생님이 되기 그리고 학생들이 필요로 하는 것을 꼼꼼히 신경쓰기
+* 워크샵 진행 방식에 대한 동의
 
-## Being a Good Teacher
+## 좋은 선생님이 되기
 
-We currently rely on the [RailsBridge teacher training](http://docs.railsbridge.org/workshop/more_teacher_training) slide deck.
+저희는 최근 [RailsBridge teacher training](http://docs.railsbridge.org/workshop/more_teacher_training)의 프레젠테이션을 참고하고 있습니다.
 
-_We'd love a volunteer to adapt this into something specific to ClojureBridge - hint, hint!_
+_저희는 참가자들이 ClojureBridge에 이것을 구체적으로 적용시켰으면 합니다. - 화이팅, 화이팅!_ 
 
-We want the install fest and the workshop to be a fun, friendly, welcoming environment for learning! Encourage questions, be supportive - don't criticize, don't take over their computer, don't use jargon. Keep an eye our for students who are struggling and help them - encourage them.
+워크샵이 재미있고 배우기 편한 환경에서 진행되기 위해 전날에 오셔서 필요한 소프트웨어를 설치하시길 바랍니다. 질문을 독려하고 지지해주세요 - 비판하지마시고, 학생의 컴퓨터를 차지하지 마시고, 전문 용어를 지양해주세요. 어려움을 겪는 학생들을 눈여겨 보시고 도와주세요. - 그들을 격려해주세요.
 
-## Running the Workshop
+## 워크샵 진행하기
 
-If you haven't already, decide who is going to lead the class(es) through the slides - it can be tiring to be the presenter all day so tag-teaming the presentation part might be a good idea. Decide who is going to keep an eye on the time to help track the pace of the workshop, the exercises, and the breaks. It's a good idea to designate someone as the notetaker for the day, writing down things that would be good to cover in the teacher / TA retrospective after the workshop is complete.
+아직 준비가 되지 않으셨다면, 누가 수업을 진행할지 슬라이드를 기준으로 정하세요 - 발표자가 하루종일 발표를 하는 것은 힘들기 때문에 발표 파트를 나누는 것이 좋습니다. 워크샵의 진행 속도와, 연습 및 휴식 시간을 관리할 사람을 정하세요. 행사중에 기록하는 사람을 정하고 워크샵이 끝나고 선생님/조교들이 회고록을 쓰기에 좋은 것들을 메모 하는 것 또한 좋은 아이디어입니다.
 
-Consider how or if you'll handle breaking the group into separate classes based on ability and running multiple classes through the material - at a different pace, with different exercises.
+능력을 기반으로 그룹을 나누고 많은 그룹을 다루는 방법을 고려하세요 - 다른 속도와 다른 예제로.
 
-Make sure everyone has run through the workshop slides and the narrative of the curriculum and feels comfortable with the flow. Since not all of your teaching assistants will necessarily have Clojure skills, figure out who your "go to" people are so everyone knows how to get "unstuck" when the students ask questions where you don't know the answer.
+모든 인원이 워크샵의 프레젠테이션과 교육과정을 이해하고 흐름에 익숙해졌는지 확인하세요. 여러분들의 모든 조교가 반드시 Clojure 기술을 갖고 있지는 않기 때문에, 학생들이 당신이 모르는 질문을 했을 때 모두가 문제를 해결 할 수 있도록 도와줄 사람들을 정하세요. 
 
-Above all, this is your collective chance to ask questions about the install fest and the workshop process so that you're all on the same page, to help the workshop run smoothly.
+무엇보다도, 워크샵 진행과 소프트웨어 준비에 대한 질문을 하여 여러분들이 합심하고 워크샵 진행을 원만하게 할 수 있는 좋은 기회입니다.
