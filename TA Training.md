@@ -1,29 +1,29 @@
-* **Introduce yourselves!**
+* **소개시간을 가지세요!**
 
-  Spend some time learning each others' names, along with everyone's backgrounds in Clojure, functional programming, and programming at large.
+  Clojure, 함수형 프로그래밍, 대체적인 프로그래밍에 대한 배경과 함께 서로의 이름을 배우면서 시간을 보내세요.
 
-* **Review the RailsBridge teacher training slides.**
-  
-  They live at http://docs.railsbridge.org/workshop/more_teacher_training.
+* **레일즈 브릿지의 학습 자료를 참조하세요.**
 
-* **Determine how TAs should approach students, taking into account the layout of your classroom.** 
-
-  For example, if your classroom space is large enough to do so, it's usually preferable to seat students in clusters, which help facilitate discussion. In this case, it's best to divide the TAs, (informally) assigning them to assist a cluster or two at a time. 
-
-  However, if your classroom has tables arranged in rows facing forward, it may be preferable to have TAs seated amongst the students; having TAs along the edges of the rows will make them less approachable, and having TAs walk along the rows could block students' view of the teacher and slides.
-
-* **Choose a circus ringmistress!**
-
-  As [described in the ClojureBridge docs](https://github.com/intuedge/Railsbridge-docs/wiki/Three-Main-Roles), the circus ringmistress acts as the face of your workshop the day it takes place.
-
-  The ringmistress should welcome everyone to your workshop with a "What are we doing here?" introduction, then help send people to the appropriate groups (if you are running a workshop with multiple beginner/intermediate/advanced groups).
+  http://docs.railsbridge.org/workshop/more_teacher_training 에 있습니다.
  
-  The ringmistress should also be in charge of opening issues (and submitting PRs, if possible!) for your workshop's curriculum repo as you encounter challenges throughout the day. Teachers and TAs will probably be tempted to open issues and submit PRs to the repo themselves, but it's preferable that the ringmistress handle it, instead; teachers and TAs should stay focused on helping attendees learn to code!
+* **교실의 배치를 고려하여 어떻게 학생들에게 다가갈지를 결정하세요.**
 
-  Finally, throughout the day, the ringmistress should announce to the group when food is being served, breaks should be taken, etc., so that the workshop can stay on track.
+  예를들어, 교실의 공간이 충분히 넓다면 토론을 용이하게 하는 무리형태로 학생들을 배치하는 것이 바람직합니다. 이 경우에는, 한번에 한두개의 무리를 도와주도록 (비공식적으로) 조교들을 나누는 것이 좋습니다.
 
-* **Make sure all volunteers know where the unisex and women's bathrooms are.**
+  하지만, 만약 교실에 테이블이 앞을 향하게 병렬로 놓여있는 경우에는 학생들 사이에 조교들이 앉는 것이 바람직합니다; 조교들이 책상의 가장자리를 따라 앉는 경우에는 그들에 대한 학생들의 접근성이 떨어질 것이고, 조교가 책상을 따라 걷는 것은 선생님과 슬라이드를 향한 학생들의 시야를 가릴 수 있습니다.
+ 
+* **여성 진행자(Circus ringmistress)를 뽑으세요!**
 
-  In addition, if your workshop is being hosted in a space that requires a key to use the bathroom, be sure that the key is freely accessible to all attendees (preferable), or that a non-male volunteer keeps track of the key--so that women and gender minorities are not required to ask permission from men to use the bathroom.
+  [described in the ClojureBridge docs](https://github.com/intuedge/Railsbridge-docs/wiki/Three-Main-Roles)대로, 진행자는 워크샵의 얼굴 역할을 합니다.
+ 
+  진행자는 이곳에서 우리가 무엇을 하는지에 대한 소개와 함께 워크샵의 모든이들을 맞이해야 하며, (만약 당신이 다수의 초보/중급/고급 그룹을 운영한다면)적절한 그룹에 사람을 보내는 것도 도와주어야 합니다.
+  
+  진행자는 또한 워크샵이 진행되는 동안 문제가 생기면 워크샵 커리큘럼 repo에 문제를 공개하는 것을 담당해야 합니다.(그리고 가능하다면 PR을 보내세요.) 선생님과 조교들은 그들 스스로 repo에 문제를 공개하고 PR을 보내려는 유혹을 받을지도 모릅니다. 하지만 그것은 진행자가 담당해야 하며 대신 선생님과 조교들은 참석자들이 코드를 배우는 것을 돕는데에 집중해야 합니다!
+ 
+  마지막으로, 하루종일 진행자는 언제 음식이 나오고 언제 휴식을 취하는지 등을 그룹에 알려주어야 합니다. 그렇게 함으로써 워크샵이 순조롭게 진행될 수 있습니다.
+  
+* **모든 지원자가 남여공용화장실과 여성화장실이 어디에 위치해 있는지 반드시 알도록 하세요.**
 
-  Also, particularly if your workshop is being hosted in a tech office, overstock the unisex and women's bathrooms if at all possible. Tech offices are typically male-dominated spaces, so unisex and women's bathrooms might not be fully stocked, by default.
+  게다가, 화장실을 사용하기 위해 열쇠가 필요한 공간에서 워크샵을 추죄하는 경우 모든 참석자가 열쇠에 자유롭게 접근할 수 있는지(선호), 또는 남성이 아닌 지원자가 열쇠를 계속 파악하고 있는지 확인하세요. 그렇게 함으로써 여성과 성소수자들이 화장실을 사용하는데 남성의 허락을 구할 필요가 없도록 하세요.
+
+   워크샵 장소에 따라, 남여공용 화장실과 여성화장실을 가능한 한 여유롭게 확보해야 합니다. 어떤 공간들은 남성주도형의 공간이므로 남여공용 화장실과 여성화장실이 기본적으로 충분히 갖추어져있지 않을 수 있기 때문입니다.
