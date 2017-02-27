@@ -1,61 +1,62 @@
-# Get involved
+# 시작하기
 
-ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
+ClojureBridge는 기술 분야에 종사하는 소수자들을 위해 무료로 초보자들도 쉽게할 수 있는 프로그래밍 워크샵을 제공함으로써 Clojure 커뮤니티 내에서 다양성을 증가시키는 것을 목표로 하고 있습니다.
+
+저번 워크샵은 여성 위주로 진행되었습니다. 워크샵을 준비할 때 주최자들은 자유롭게 다른 소수자 대상을 고를 수 있습니다. 워크샵의 설명은 워크샵이 개최되어야 하는 그룹 또는 그룹을 명시해야 합니다.
+
+ClojureBridge는 2014년에 시작되었고 [Bridge Foundry](http://bridgefoundry.org/)에 속해있습니다. 전세계적으로 당신과 같은 사람들이 워크샵을 진행해왔습니다! 많은 사람들이 다양한 방법으로 자원했습니다. 다음은 참여에 필요한 몇가지 사항을 알려드리겠습니다:
+
+##무엇을 할 수 있나요?
+
+여러분들이 기여할 수 있는 방법은 많습니다. 예를들어...
+
+###...만드세요!
+
+당신의 분야에서 워크샵을 진행하고 싶으신가요? 좋아요! 시작해봅시다! [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimun-Viable-Workshop.md)를 찾으려면 다음을 준비하세요.
+
+- **개최지:** 학습자들이 Clojure를 향한 첫 발을 떼기에 안전하고 조용한 공간입니다. 사무실의 여가 공간이나 협업 공간이 괜찮을 것 같습니다.
+- **날짜 :** ClojureBridge는 이틀간의 워크샵입니다. 즉, 리허설 날(예:금요일 오후 5시부터 오후 8시까지)과 워크샵 날(예:토요일 오전 9시, 오후 6시)을 준비해야 합니다.
+더해서, 행사 전에 코치들의 트레이닝이 있습니다. 코치에게 어떻게 가르치는지 일깨우기 위해서입니다. 이 트레이닝은 이벤트가 일어나기 전 밤에(예:2주) 할 수 있습니다.
+- **코치 :** 코치들은 참석자들을 가르치는 것을 도와줍니다. 참석자 두 명에 한 명의 코치가 적당한 비율입니다.
+- **참석자 :**참석자들이 워크샵에서 가장 중요합니다. 참석자들을 메일, 소셜미디어, 포스터, 전단지 등으로 초대하세요. 참석자들은 여성이거나 기술분야에 종사하는 소수자들이어야 합니다. 이곳을 더 읽어 보세요. [men's attendance here](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md).
+
+저희는 여러분들이 이곳[workshop mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops)에 가입하시길 원합니다. 여러분이 날짜와 장소를 정하면 GitHub의 [workshops repository](https://github.com/ClojureBridge/Workshops)에서 이슈를 받겠습니다.
+
+GitHub의 [organizing repository](https://github.com/ClojureBridge/organizing)에서 많은 정보를 찾아보실 수 있고 이곳을 참고하세요 [Workshop Planning Timeline](Workshop-Planning-Timeline.md). [Resources on Diversity](Resources-on-Diversity.md)에는 다양하고 포괄적인 행사를 만드는 방법에 대한 훌륭한 리소스들이 아주 많습니다. 얼마든지 이 문서들을 읽고 기여해주십시오.
+
+ClojureBridge는 BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/)를 따릅니다.
+
+마지막으로 가장 중요하게, 여러분들이 후원자를 찾고 계실지도 모릅니다. 후원자들은 학습자들에게 이번 워크샵이 기억될 수 있도록 훌륭한 음식과 마실 것을 지원해 줄 수 있습니다.
 
 
-Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
+###...코치님!
+
+당신과 당신의 동료들은 참석자들의 소그룹에 클로저와 기본적인 프로그래밍 원리들을 가르칠 것입니다. 이 과정은 당신이 기술분야에서 새로운 커리어를 시작하는데 도움을 줄 수 있습니다. 여기 우리의 [커리큘럼](https://clojurebridge.github.io/curriculum/#/1)을 참고하세요. 코칭과정은 멋진 경험이 될 것 입니다. 이것은 당신으로하여금 클로저를 더 잘 이해하고 또한 일을 하는데 유용한 설명 기술을 연습하도록 도와줄 것입니다.
+
+###...조교가 되어보세요!
+
+조교 또는 "플로킹 코치"로써 당신은 또한 참석자들이 클로저를 배우는 것을 도와줄 수 있습니다. 당신은 한 그룹에 소속되지 않고 돌아다니면서 질문이 생기면 도와줄 수 있습다. 당신이 스스로 클로저를 배우기 시작했다면 조교가 되는 것은 아마 당신의 일일지도 모릅니다.
+
+###...후원하거나 기부하세요!
+
+우리의 후원자가 없다면 클로저브릿지는 어떻게 됐을까요? 많은 좋은 회사들과 개인들이 클로저브릿지 워크샵을 후원해주고 있습니다. 그들의 도움덕분에 각기 다른 워크샵에서 참석자들에게 음식,음료,티셔츠,노트 그리고 스티커들을 제공하는 것이 가능해졌습니다.
+당신도 당신의 지역 혹은 해외의 워크샵을 후원하거나 [클로저 브릿지에 기부하기](http://www.clojurebridge.org/donate)를 통해 우리가 클로저를 세계에 퍼트리고, 우리의 서버를 운영하는 등의 일에 도움을 줄 수 있습니다. 
 
 
-ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). All around the world there have been workshops organized by people like you! Many people volunteered in different ways. Here are some insights for you to get involved:
+###...커리큘럼을 개선하는데 도와주세요!
 
-## What can you do?
+우리의 커리큘럼은 [curriculum repository](https://github.com/ClojureBridge/curriculum)에서 찾을 수 있습니다. [커리큘럼 메일링 리스트](https://groups.google.com/forum/#!forum/clojurebridge-curriculum)에가입하고 당신의 아이디어를 공유해 주세요.
 
-There are different ways you can contribute. Maybe you like to...
+###...세계에 널리 알리세요!
 
-###...organize!
+마지막으로 당신은 클로저브릿지를 세계에 퍼트리는 것을 도울 수 있습니다. 클로저브릿지를 당신의 주변인들(특히 여성)에게 소개하세요. 당신이 찾은 클로저브릿지에 대한 모든 것을 리트윗하고 포스트하고 공유하세요. 여성들에게 당신이 클로저브릿지에 대해 알고있고 사랑하는 것들을 알리고 그들로하여금 참석하도록 권장하세요!
 
-You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md) you need to find: 
-
-- **A venue:** A safe and quiet space for learners to take their first steps in Clojure. An office leisure space or a co-working space might work.
-- **A date:** ClojureBridge is a two-day workshop. Which means you need to find a date for the install party (e.g. Friday evening from 5 PM - 8 PM) and a date for the workshop day (e.g. Saturday 9 AM - 6 PM).
-Moreover, there should be a coaches training before the event. To raise awareness on how to coach. This training can be one evening (e.g. 2 weeks) before the event.
-- **Coaches:** Coaches help you to teach the attendees. One coach for two attendees is a good ratio.
-- **Attendees:** The attendees are the most important part of the workshop. Invite them via mailing lists, social media, posters, flyers etc. Attendees should be women or people from underrepresented groups in tech. Read more about [men’s attendance here](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md).
-
-We recommend you to join our [workshop mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops). When you decided for a date and have found a venue we are happy to receive your information via an issue in our [workshops repository](https://github.com/ClojureBridge/Workshops) on GitHub. Then we will publish your workshop on our website and assign you a mentor who can help you with answers to questions and by providing resources and information.
-
-You can find lots of information in our [organizing repository](https://github.com/ClojureBridge/organizing) on GitHub and read about the [Workshop Planning Timeline](Workshop-Planning-Timeline.md). [Resources on Diversity](Resources-on-Diversity.md) provides a number of great resources on how to create a diverse, inclusive event. Feel free to read and contribute to these documents.
-
-ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/).
-
-Last, but not least, you might want to find some sponsors. They can help you provide awesome food, drinks or fancy swag for your learners so that this workshop will stay a memorable event.
-
-###...coach!
-
-As a coach you and your co-coach will teach a small group of attendees Clojure and fundamental programming principles at the workshop. This way you can help to start new carriers in tech. Have a look at our [curriculum](https://clojurebridge.github.io/curriculum/#/1). Coaching is an awesome experience. It helps you understand Clojure better and to practice your explaining skills which is also useful for work.
-
-###...be a teaching assistant!
-
-As a teaching assistant or a “floating coach” you also help attendees learn Clojure. You are not assigned to a fixed group but you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself. 
-
-###...sponsor or donate!
-
-What would ClojureBridge be without our sponsors? Many great companies and private people have sponsored ClojureBridge workshops. With their help it was possible to provide food, drinks, T-shirts, notebooks and stickers for the attendees at different workshops. 
-You can help by sponsoring the workshop in your area or abroad but also a [donation to ClojureBridge](http://www.clojurebridge.org/donate) is very welcome to help us spread the word, run our servers etc.
-
-###...help improve the curriculum!
-
-Our curriculum can be found in our [curriculum repository](https://github.com/ClojureBridge/curriculum). You are very welcome to [join our curriculum mailing list](https://groups.google.com/forum/#!forum/clojurebridge-curriculum) and share your ideas.
-
-###...spread the word!
-
-Last, but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend! 
 
 ----
 
-# Contact
+# 연락하세요
 
-Please mail us if you have any questions: <info@clojurebridge.org>
+질문이 있다면 우리에게 메일을 보내세요: <info@clojurebridge.org>
 
 ----
 
