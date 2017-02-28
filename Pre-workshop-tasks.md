@@ -1,73 +1,73 @@
-### <a name="joinlistserve"/>Join the organizer's listserve
-If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
+### <a name="joinlistserve"/> 준비위원회의 리스트서브 가입하기	
+아직 준비가 되지 않았다면, 함께해요: https://groups.google.com/forum/#!forum/clojurebridge-workshops. 질문이나 요구사항등을 이메일로 보내실 수 있습니다. 저희가 도와드리겠습니다.
 
-### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-The ClojureBridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
+### <a name="confirmvenue"/> 날짜 및 장소의 세부사항을 확인하기 
+ClojureBridge 준비위원회는 이메일을 통해 장소 당담자에게 당신을 소개했습니다. 정해진 날짜에 진행 할 수 있는지, 참여 안내를 진행할 만한 공간을 얼마나 갖고 있는지, 그 밖의 많은 것들을 궁금해 하실 수 있습니다: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
 
-## Post the event
+## 행사 개최하기
 
-In practice, using a closed, invite-only system for recruiting instructors and a more public application such as Eventbrite to register participants in the other roles has worked well. If you have the benefit of a local Clojure group, see whether you can use that group's mailing list or Meetup page to handle registration for the workshop attendees and non-instructor volunteers.
+실제로, 강사 모집을 위해 초대 전용 시스템을 이용하는 것과 참가자들의 등록을 위해 Eventbrite같은 좀 더 대중적인 어플리케이션을 이용하는 것은 효과적입니다. 지역 Clojure 그룹을 이용하고 계신다면, 해당 그룹의 메일 목록과 Meetup 페이지를 이용해 강사 희망자가 아닌 워크샵 참가자로 등록할 수 있는지 확인해 보세요.
 
-## Survey the students and volunteers
-We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. You can add the survey to Eventbrite.
+## 학생과 스탭 설문조사 하기 
+사전 설문조사를 진행합니다. 참가자들에게 물어 실제로 참가할 인원 측정과 수준별 분반을 나누는데 도움이 될 것 입니다. Eventbrite에 설문지를 추가할 수 있습니다.
 
-** ADD SURVEY QUESTIONS**
+**설문 조사할 질문을 추가하세요**
 
-## Arrange catering
+## 식사 준비하기
 
-As you are getting quotes for the catering, check out the [sample budget](Sample-Budget.md). Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
+식사 준비에 대한 예산을 낼 때, 이곳을 참고하세요 [sample budget](Sample-Budget.md). 총액은 그곳에 있는 인원 수와 음식에 따라 달라지겠지만, 전체 워크샵 예산이 $1,500을 넘어선 안됩니다.
 
 
-### Installfest
-Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too. 
+### 소프트웨어 설치 행사 
+이 날의 음식은 아마 피자와 샐러드 입니다. 만약 주최측에 술 냉장고가 있다면,정말 완벽하지만, 아니더라도 맥주도 마셔요.
 
-Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual. 
-(I.e. Total Volunteers + Attendees = 80, 60% = 48: Roughly 144 slices needed- so 9 pizzas with 16 slices)
+금액: 일인당 피자 2~3 조각 
+(예. 총 스탭 + 참석자 = 80, 60% = 48: 대략 144 조각이 필요함 - 따라서 16조각짜리 피자 9판)
 
-### Breakfast
-Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
+### 아침 식사
+워크샵의 아침식사는 보통 커피와 베이글입니다. 자원자가 도착하기 15분 전에 모든 것이 준비되도록 하세요, 그음식과 커피가 그들을 맞이 할 수 있게.
 
-Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible. You need sugar, milk, disposable cups etc. 5 gallons of coffee is usually MORE than enough for 70 people as not everyone will drink coffee.
+워크샵 장소 주변의 가능하다면 배달해 줄 커피샵을 찾으세요. 설탕, 우유, 일회용 컵 등이 필요합니다. 모든 사람이 커피를 마시진 않기 때문에 70명에 커피 20리터가 적당합니다.
 
-### Lunch
+### 점심 식사
 
-Ask the host location if they have any recommendations for catering companies that they have used before. 
-Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. 
+이전에 사용한 식사 제공 회사에 대해 권고사항이 있다면 호스트 위치를 물어보세요.
+요리사에게 예상 인원 수를 알려주세요; 보통 참여 의사를 밝힌 인원의 70%쯤 됩니다. 채식주의자/비건 옵션을 음식의 3분의 1분량 정도로 준비해주세요, 그리고 혹시 채식주의자/비건이 제공된 음식을 먹을지 안 먹을지도 알려주세요. 
 
-If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
+만약 주최측이 식사 비용을 지불하지 않는다면, 승인을 위해 오스틴에 제출할 견적서를 받아주세요.
 
-## Make after-party reservations
-Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Clojure programming!
+## 뒤풀이 예약하기 
+식사 후에 기부금이 남은 후원자를 찾았다면, 자원자들이 할애한 시간과 노력을 위해 행사 후에 공짜 술을 제공하는 것이 좋습니다. 또한 워크샵 참가자들에게 사교성과  Clojure 프로그래밍을 도와줄 사람과의 연결을 도와줍니다!
 
-Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between leaving the workshop and arriving at the party. You need a place that has enough unoccupied space for the whole group to gather and mingle. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
+가까운 곳으로 정하세요. 워크샵 장소와 가까울 수록, 길을 잃거나 딴 길로 새는 사람이 없을 겁니다. 모두가 함께 어울릴 수 있는 충분히 한적한 공간이 필요합니다. 한적한 술집이 좋고, 캐주얼한 식당도 좋습니다. 대부분의 워크샵은 토요일 4시30분에 끝납니다, 그렇기에 뒤풀이 장소로 가기엔 이른 감이 있지만 확인해 봐야합니다.
 
-Make arrangements with the host location ahead of time. If you can tell a place that you’re estimating X many people will be coming and that you for sure will buy Y many drinks (one for each of your volunteers), that’s often enough to encourage them to go out of their way to support what you’re doing. Some places will offer specials (free drinks, extra food) to entice large groups but even those that don’t should be informed before a horde of people descend on them.
+주최 장소를 미리 준비하세요. X라고 추정하는 장소를 알려주시면 많은 사람들이 올 것이고 스탭에게 한 잔씩 제공할 Y음료를 살 수 있습니다. 이것으로도 충분히 스탭들을 힘나게 할 수 있습니다. 몇몇 장소들은 더 많은 사람들을 모으기 위해 특별히 공짜 술과 음식을 제공할 수 있지만 사람들이 모이기 전에 굳이 알릴 필요는 없습니다.
 
-Mention the after-party early and often. Some students will fail to read the instructions, some will arrive too late for the opening presentation, and some will finish their coursework early and miss the after-class gathering. The more times you mention the fact and location of the after party the less likely it is that people don’t come because they don’t know about it.
+뒤풀이를 일찍 자주 언급하세요. 몇몇 학생들은 안내를 따르지 못할 수도 있고, 늦을 수도 있고, 학습 과정을 일찍 끝내고 집에 갈 수도 있습니다. 뒤풀이 소식과 장소를 많이 언급하여 몰라서 놓친 사람들이 없게 하세요.
 
-If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
+잠재적 주최측이 최소한의 술집 외상값이나 임대료를 요구한다면, 다른 집을 가세요! 많지는 않지만, 일부는 파티를 주선하는 업체입니다. $1000을 넘기는 경향이 있는데 뒤풀이 후원자가 없다면 상당히 비쌉니다. 
 
-## Train the teachers
-Set up a teacher training. This often happens during the week of the workshop. If you can't get a separate evening, you can do it during the Installfest, but try to get extra volunteers if you do that. Don't want to leave the student high and dry while teachers discuss best practices. 
+## 수업 트레이닝
+수업 트레이닝을 실시하세요. 주로 워크샵이 있는 주에 진행됩니다. 저녁 시간이 안된다면, 워크샵 전날 소프트웨어 설치하는 동안에 트레이닝 할 수 있습니다만, 일을 도화줄 다른 스탭들을 알아보셔야 합니다. 학생들을 혼자 두고 저희끼리 이야기할 순 없습니다.
 
-Take a look at the teacher training slides, which live at [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training). 
+이곳의 학습 자료를 살펴보세요 [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training). 
 
-## Communicate with everyone
-A few of the things you'll do:
-* Email the pre-workshop survey to the attendees, optionally including a deadline to respond
-* Remind attendees to take the pre-workshop survey
-* Email the volunteer survey to the volunteers
-* Send Installfest instructions to attendees 
-* Send logistical info (detailed schedule, parking info, etc.) 
-* Ask people at every turn to update their RSVP on Eventbrite if they can't come
+## 모두와 소통하기
+몇가지 유의사항이 있습니다. 
+* 참가자들에게 사전 설문조사를 이메일로 보내기 (응답 마감일 포함은 선택사항)
+* 참가자들에게 사전 설문조사 참가 촉구하기
+* 스탭 대상 설문조사를 이메일로 보내기 
+* 참가자들에게 개발환 설치 안내 보내기 
+* 행사 진행 정보 보내기(세부 일정, 주차 정보, 등.)
+* 만약 참석할 수 없다면 어느 방식으로든 알려달라고 공지하기
 
-You can find templates for emails in the [materials section](materials.md) under "Communication".
+[materials section](materials.md)의 "Communication" 아래에서 이메일 템플릿을 찾을 수 있습니다.
 
-## Obtain necessary objects: power cords, flash drives, name tags, etc.
+## 필수 물품 챙기기: 전원코드, 플래시 드라이브, 이름표, 등.
 
-## Update the pre- and post-workshop presentation slides
+## 워크샵 전과 후의 발표자료 업데이트하기
 
-## Figure out student class levels
-* Use the [grouping guide](Class-level-grouping-guide.md) to interpret the results of the pre-workshop survey
+## 학생들의 수준 알아내기
+* 사전 워크샵 설문조사 결과 해석을 위해 이곳을 이용하세요. [grouping guide](Class-level-grouping-guide.md)
 
 ### [Back to Cookbook](README.md)
