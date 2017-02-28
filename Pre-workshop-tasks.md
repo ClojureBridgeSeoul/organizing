@@ -2,7 +2,7 @@
 아직 준비가 되지 않았다면, 함께해요: https://groups.google.com/forum/#!forum/clojurebridge-workshops. 질문이나 요구사항등을 이메일로 보내실 수 있습니다. 저희가 도와드리겠습니다.
 
 ### <a name="confirmvenue"/> 날짜 및 장소의 세부사항을 확인하기 
-ClojureBridge 준비위원회는 이메을을 통해 장소 당담자에게 당신을 소개했습니다. 정해진 날짜에 진행 할 수 있는지, 참여 안내를 진행할 만한 공간을 얼마나 갖고 있는지, 그 밖의 많은 것들을 궁금해 하실 수 있습니다: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
+ClojureBridge 준비위원회는 이메일을 통해 장소 당담자에게 당신을 소개했습니다. 정해진 날짜에 진행 할 수 있는지, 참여 안내를 진행할 만한 공간을 얼마나 갖고 있는지, 그 밖의 많은 것들을 궁금해 하실 수 있습니다: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
 
 ## 행사 개최하기
 
