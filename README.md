@@ -58,6 +58,7 @@ ClojureBridge는 BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-o
 
 질문이 있다면 우리에게 메일을 보내세요: <info@clojurebridge.org>
 한국의 경우 -> bridge-seoul clojure <clojurebridge.seoul@gmail.com>
+
 ----
 
 **Quick access:**
