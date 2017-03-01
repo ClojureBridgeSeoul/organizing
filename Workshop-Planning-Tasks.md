@@ -1,117 +1,117 @@
-## When You Sign Up
+## 등록 할 때
 
-### <a name="joinlistserve"/>Join the organizer's listserve
-If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help.
+### <a name="joinlistserve"/>준비위원회의 리스트서브 가입하기 
+아직 준비가 되지 않았다면, 함께해요: https://groups.google.com/forum/#!forum/clojurebridge-workshops. 질문이나 요구사항등을 이메일로 보내실 수 있습니다. 저희가 도와드리겠습니다.
 
-### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-You'll want to confirm that the dates work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [hosting venue questions](Hosting-venue-questions.md).
+### <a name="confirmvenue"/>날짜 및 장소의 세부사항을 확인하기
+정해진 날짜에 진행 할 수 있는지, 참여 안내를 진행할 만한 공간을 얼마나 갖고 있는지, 그 밖의 많은 것들을 궁금해 하실 수 있습니다: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
 
-### <a name="meetmentor"/>Meet your mentor
-If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
+### <a name="meetmentor"/>멘토 만나기
+준비하는 것이 처음이라면, 메타 준비위원회가 질문에 답해줄 멘토를 준비할 것 입니다. 서로 인사를 나눠보세요!
 
-### <a name="calendarlisting"/>Add your event to the ClojureBridge events website
+### <a name="calendarlisting"/>ClojureBridge 행사 웹사이트에 추가하기
 
-Please see the [Workshops](https://github.com/ClojureBridge/Workshops) repo for details. You will need to create a GitHub issue in that repo using the template provided.
+[Workshops](https://github.com/ClojureBridge/Workshops)의 레포를 참고해 세부사항을 알아가세요. 제공된 템플릿을 이용하여 Wokrshops 레포 안에 GitHub 이슈를 생성해야합니다.
 
-### <a name="clojure.org"/>Submit a pull request to clojure/clojure-site
+### <a name="clojure.org"/> 클로저 사이트에 풀 리퀘스트 보내기
 
-Upcoming events are displayed at [clojure.org/community/events](http://clojure.org/community/events). The Clojure website is backed by a Git repository which lives on [GitHub](https://github.com/clojure/clojure-site).
+다가올 행사는 [clojure.org/community/events](http://clojure.org/community/events)에 게시됩니다. 클로저 웹사이트는 Git 저장소에 의해 백업됩니다 [GitHub](https://github.com/clojure/clojure-site).
 
-Before submitting a pull request to clojure/clojure-site you must sign the [Clojure Contributor Agreement](http://clojure.org/community/contributing_site#contributor).
+클로저 사이트로 풀 리퀘스트를 보내기 전에 반드시 가입하셔야 합니다 [Clojure Contributor Agreement](http://clojure.org/community/contributing_site#contributor).
 
-Create a file similar to [clojurebridge\_berlin.adoc](https://github.com/clojure/clojure-site/commit/b1c8aed9430e24682f8286f83973b7dab5c66efa#diff-99d8e8fcb89e3797945e1248e063941c) then submit a pull request. When the pull request is merged the event will appear on the Clojure website.
+[clojurebridge\_berlin.adoc](https://github.com/clojure/clojure-site/commit/b1c8aed9430e24682f8286f83973b7dab5c66efa#diff-99d8e8fcb89e3797945e1248e063941c) 이와 비슷한 파일을 만드시고 풀 리퀘스트를 보내세요. 풀 리퀘스트가 합쳐지면 클로저 웹사이트에 반영됩니다.
 
-### <a name="bridgetroll"/>Post the event on Eventbrite
+### <a name="bridgetroll"/> Eventbrite에 행사 게시하기
 
-You can use whatever event hosting system you'd like, but most organizers have used Eventbrite.
+행사 호스팅 시스템은 무엇으로 하셔도 상관없지만, 대부분의 준비위원회는 Eventbrite을 이용합니다.
 
-Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
+이전의 워크샵을 따라하면서, 자세한 사항은 새로 업데이트하고 포스팅하기 전 다른 사람에게 보여주세요. 혹시라도 놓친 정보가 있을 수도 있기 때문입니다.
 
-Eventbrite can be used to
- * Record and modify RSVPs for Students and Volunteers
- * Email all students and/or volunteers
- * Create signup sheets for students and volunteers on Installfest and Workshop days
+Eventbrite의 용도는
+ * 학생들과 스탭들의 참가여부를 기록하고 수정하기  
+ * 모든 학생들과 스탭에게 이메일 보내기
+ * 개발환경 구축과 워크샵의 학생과 스탭의 등록서 만들기 
 
-_In the week before the event, send pings to your students through Eventbrite to remind them that they can return to Eventbrite to modify their RSVP, class level preference, dietary and child care needs._
+_행사 바로 전주에,Eventbrite를 이용해 학생들에게 연락해 학생들이 참가여부, 원하는 분반 수준, 식사나 보육 시설 요구사항을 수정할 수 있게하세요._
 
-### <a name="survey"/>Survey the students and volunteers
+### <a name="survey"/>학생과 스탭 설문조사 하기
 
-Eventbrite can handle all pre-workshop surveying of students and volunteers.
+Eventbrite는 모든 사전 설문조사를 다룰 수 있습니다.
 
-### <a name="catering"/>Arrange catering
+### <a name="catering"/>식사 준비하기
 
-As you are getting quotes for the catering, check out the [sample budget|sample budget](sample budget|sample budget.md). Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
+식사 준비에 대한 예산을 낼 때, 이곳을 참고하세요 [sample budget](Sample-Budget.md). 총액은 그곳에 있는 인원 수와 음식에 따라 달라지겠지만, 전체 워크샵 예산이 $1,500을 넘어선 안됩니다.
 
-### Installfest
-Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too.
+### 소프트웨어 설치 행사 
+이 날의 음식은 아마 피자와 샐러드 입니다. 만약 주최측에 술 냉장고가 있다면,정말 완벽하지만, 아니더라도 맥주도 마셔요.
 
-Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual.
-(I.e. Total Volunteers + Attendees = 80, 60% = 48: Roughly 144 slices needed- so 9 pizzas with 16 slices)
+금액: 일인당 피자 2~3 조각 
+(예. 총 스탭 + 참석자 = 80, 60% = 48: 대략 144 조각이 필요함 - 따라서 16조각짜리 피자 9판)
 
-### Breakfast
-Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
-
-Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible.  Not everyone will drink, but make sure to have plenty as many will refill their cups throughout the day. Remember to request extra cups & cream.
-
-### Lunch
-
-Ask the host location if they have any recommendations for catering companies that they have used before.
-Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. You can save some money if one of the organizers has a car and is willing to return the dishes to the company after the event.
-
-If lunch will be delivered, please make sure they come at least 30 minutes beforehand so you & your team have time to set up.  When setting up, try to make sure the food is accessible by many at the same time (perhaps various stations?) as lunch time goes by so fast.
-
-###  <a name="cookies"/>Clojure cookies
-We have a history of having cookies with the Clojure logo printed on them so students can "take a bite out of Clojure." These can get expensive, though, so make sure you have enough sponsorship before you order these. Most bakeries can do logo cookies.
-
-### <a name="afterparty"/>Make after-party reservations
-It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Clojure programming!
-
-Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between workshop and party. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
-
-Make arrangements with the location ahead of time. If you can tell a place that X many people will be coming and you will buy Y many drinks (one for each of your volunteers), that’s often enough to encourage them to go out of their way to support what you’re doing. Some places will offer specials (free drinks, extra food) to entice large groups but even those that don’t should be informed before a horde of people descend on them.
-
-Mention the after-party early and often. The more times you mention the fact and location of the after party the less likely it is that people don’t come because they don’t know about it.
-
-If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
-
-###  <a name="trainteachers"/>Train the teachers
-Set up a teacher training. This often happens during the week of the workshop. If you can't get a separate evening, you can do it during the Installfest, but try to get extra volunteers if you do that. Don't want to leave the student high and dry while teachers discuss best practices.
-
-Take a look at the teacher training slides, which live at [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training).
-
-This is very important, and we *strongly* recommend that you do this, in person, ahead of the actual workshop.
-
-From Sean, the organizer of the first San Francisco workshop:
-
-"[The training slide deck] has a few parts that are RailsBridge-specific but most of it is about how to encourage a safe, welcoming environment for learning, and how to ensure TAs are prepared to help everyone get the most out of the workshop: how to get students engaged, how to deal with potential issues before they escalate, how to make sure everyone is happy and learning, and not getting frustrated.
-
-Yes, it's yet one more thing to organize on everyone's calendar, and it means one more space to find a host for and more food/drink to pay for but it really is absolutely worth the effort! Trust me, it made a huge difference for us in San Francisco!"
-
-### <a name="communicate"/>Communicate with everyone
-A few of the things you'll do:
-* Send Installfest instructions to attendees
-* Send logistical info (detailed schedule, parking info, etc.)
-* Ask people at every turn to update their RSVP on Eventbrite if they can't come or if their info needs changing.
-
-You can find templates for emails in the [materials section](Templates-and-Materials.md) under "Communication".
+### 아침 식사 
+워크샵의 아침식사는 보통 커피와 베이글입니다. 자원자가 도착하기 15분 전에 모든 것이 준비되도록 하세요, 그 음식과 커피가 그들을 맞이 할 수 있게.
 
 
-### <a name="childcare"/>Arrange childcare
-* Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
-* It's worth checking with the people who said they needed childcare to make sure they still really do. Many do not realize that you really will provide it if they ask, and will try and make other arrangements after requesting it. Check in with them as soon as you can after the initial request to confirm.
+워크샵 장소 주변의 가능하다면 배달해 줄 커피샵을 찾으세요. 설탕, 우유, 일회용 컵 등이 필요합니다. 모든 사람이 커피를 마시진 않기 때문에 70명에 커피 20리터가 적당합니다.
 
-Here are two resources you could use for finding childcare providers:
+### 점심 식사 
+
+이전에 사용한 식사 제공 회사에 대해 권고사항이 있다면 호스트 위치를 물어보세요.
+요리사에게 예상 인원 수를 알려주세요; 보통 참여 의사를 밝힌 인원의 70%쯤 됩니다. 채식주의자/비건 옵션을 음식의 3분의 1분량 정도로 준비해주세요, 그리고 혹시 채식주의자/비건이 제공된 음식을 먹을지 안 먹을지도 알려주세요. 행사 후에 준비위원회 중 차를 가진 분이 기꺼이 그릇을 반납해 주신다면 돈을 조금 아낄 수 있습니다.
+
+점심 식사가 배달되면, 식사 준비를 할 수 있도록 30분 전에 미리 올 수 있도록 해주세요. 준비가 다 되면, 점심 식사는 시간이 빠듯하기에 가능한 많은 사람들이 동시에 할 수 있도록 해주세요.
+
+###  <a name="cookies"/>클로저 쿠키
+Clojure 로고가 그려진 쿠키를 학생들에게 나누어 Clojure를 씹어먹을 수 있게끔 해왔습니다. 비싸기 때문에 주문 전 후원금을 확인하시길 바랍니다. 대부분의 베이커리는 쿠키에 로고를 찍을 수 있습니다.
+
+### <a name="afterparty"/>뒤풀이 예약하기 
+식사 후에 기부금이 남은 후원자를 찾았다면, 자원자들이 할애한 시간과 노력을 위해 행사 후에 공짜 술을 제공하는 것이 좋습니다. 또한 워크샵 참가자들에게 사교성과  Clojure 프로그래밍을 도와줄 사람과의 연결을 도와줍니다!
+
+가까운 곳으로 정하세요. 워크샵 장소와 가까울 수록, 길을 잃거나 딴 길로 새는 사람이 없을 겁니다. 모두가 함께 어울릴 수 있는 충분히 한적한 공간이 필요합니다. 한적한 술집이 좋고, 캐주얼한 식당도 좋습니다. 대부분의 워크샵은 토요일 4시30분에 끝납니다, 그렇기에 뒤풀이 장소로 가기엔 이른 감이 있지만 확인해 봐야합니다.
+
+주최 장소를 미리 준비하세요. X라고 추정하는 장소를 알려주시면 많은 사람들이 올 것이고 스탭에게 한 잔씩 제공할 Y음료를 살 수 있습니다. 이것으로도 충분히 스탭들을 힘나게 할 수 있습니다. 몇몇 장소들은 더 많은 사람들을 모으기 위해 특별히 공짜 술과 음식을 제공할 수 있지만 사람들이 모이기 전에 굳이 알릴 필요는 없습니다.
+
+뒤풀이를 일찍 자주 언급하세요. 몇몇 학생들은 안내를 따르지 못할 수도 있고, 늦을 수도 있고, 학습 과정을 일찍 끝내고 집에 갈 수도 있습니다. 뒤풀이 소식과 장소를 많이 언급하여 몰라서 놓친 사람들이 없게 하세요.
+
+잠적 주최측이 최소한의 술집 외상값이나 임대료를 요구한다면, 다른 집을 가세요! 많지는 않지만, 일부는 파티를 주선하는 업체입니다. $1000을 넘기는 경향이 있는데 뒤풀이 후원 업체가 없다면 상당히 비쌉니다.
+
+###  <a name="trainteachers"/>수업 트레이닝
+수업 트레이닝을 실시하세요. 주로 워크샵이 있는 주에 진행됩니다. 저녁 시간이 안된다면, 워크샵 전날 소프트웨어 설치하는 동안에 트레이닝 할 수 있습니다만, 일을 도화줄 다른 스탭들을 알아보셔야 합니다. 학생들을 혼자 두고 저희끼리 이야기할 순 없습니다.정
+
+이곳의 학습 자료를 살펴보세요 [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training).
+
+이 자료는 아주 중요합니다, *꼭* 워크샵 전에 직접 참고하시길 바랍니다.
+
+첫번째 샌프란시스코 워크샵 운영진 Sean으로부터: 
+
+"[트레이닝 발표 자료]는 레일즈브릿지-특수사항의 일부를 포함하고 있습니다. 대부분 안전과, 기쁘게 배우는 환경 조성과 모든 사람들이 워크샵을 최대한 활용할 수 있도록 조교들을 준비시키는 법의 내용입니다. 자세히는 학생들의 참여을 유지하는 법, 잠재적 문제를 다루를 법, 모든 사람들이 행복과 배움을 얻어가는 것, 좌절하지 않는 것 입니다.
+
+네, 모든 사람에게 일정을 정하기엔 아직 하나 남았습니다, 더 많은 음식과 술을 위한 호스트를 더 찾아야합니다. 수고스럽지만 그럴 가치가 있어요! 절 믿으세요, 샌프란시스코에서는 아주 잘 먹혔답니다."
+
+### <a name="communicate"/>모두와 소통하기 
+몇가지 유의사항이 있습니다.
+* 학생들에게 개발환경 구축 안내 보내기
+* 행사 진행 정보 보내기 (세부 일정, 주차 정보, 등.)
+* 올 수 없거나 기타 변경된 정보가 있다면 어떤 방식으로든 연락하도록 공지하기
+
+[materials section](materials.md)의 "Communication" 아래에서 이메일 템플릿을 찾을 수 있습니다.
+
+
+### <a name="childcare"/>탁아서비스 준비하기 
+* 당신에게 아이를 맡기는 사람은 거의 없고 실제로는 대부분의 사람들이 탁아서비스와 수유를 위한 개인공간을 사용하는 경향이 있습니다.
+* 탁아서비스가 필요하다고 말한 사람들에게 아직도 그러한지 확인해 볼 가치가 있습니다. 많은 사람들은 본인들이 요청하면 당신이 서비스를 정말로 제공할 것임을 깨닫지 못하고 그것을 요청 한 후에 다른 준비를 시도할 것입니다. 처음 요청을 확인한 후 최대한 빨리 확인하십시오.
+
+다음은 탁아서비스를 준비하는데 참고할 만한 자료입니다:
 * http://conferencechildcare.com/
 * https://www.urbansitter.com/
 
-### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, pens, etc.
+### <a name="objects"/>전원 코드, 플래시 드라이브, 이름표,펜 등 필요한 물건을 얻으세요.
 
-### <a name="swagbags"/>Swag bags
-If sponsors have given books or other giveaway goods, collect those items and bags in which to distribute them. Eric Normand has very generously offered his Intro to Clojure LispCast videos free of charge to ClojureBridge students, teachers, TAs, and organizers. So get in touch with him to find out how to distribute those: [http://purelyfunctional.tv/intro-to-clojure](http://purelyfunctional.tv/intro-to-clojure).
+### <a name="swagbags"/>굿즈 가방
+만약 후원 업체에서 책이나 다른 물건을 제공할 경우, 그것을 모아서 나누어 줄 봉투에 담으세요. Eric Norman은 클로저브릿지 학생,선생님,조교 그리고 주최자들에게 Clojure LispCast 비디오에 관한 그의 Intro를 매우 관대하게 제공하고 있습니다. 그러니 그것을 배포할 방법을 찾아 그에게 연락하세요:[http://purelyfunctional.tv/intro-to-clojure](http://purelyfunctional.tv/intro-to-clojure)
 
+### <a name="slides"/>워크샵 전과 후의 발표자료 업데이트하기
+* 양식과 설명은 [Templates and Materials](Templates-and-Materials.md)에 있습니다.
 
-### <a name="slides"/>Update the pre- and post-workshop presentation slides
-* Templates and instructions live in [Templates and Materials](Templates-and-Materials.md)
-
-### <a name="levels"/>Figure out student class levels
-* Use the set up a rough guesstimate of number of groups and sizes. It is very helpful to arrange the sections again the night before, after everyone has checked in at the installfest; that way you have a much better idea of what your actual workshop attendance will be.
+### <a name="levels"/>학생들의 수준 알아내기
+* 그룹의 수와 규모를 대략적으로 추정하여 설정하세요. 모든 사람들을 개발환경 구축 행사에서 확인한 후 밤에 섹션을 다시 정리하는 것이 유용합니다; 그렇게함으로써 실질적인 워크샵 참가자 인원수를 더 잘 알 수 있습니다.
