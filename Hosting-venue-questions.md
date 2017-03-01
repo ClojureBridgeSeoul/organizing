@@ -1,53 +1,53 @@
-Location Questionnaire
-### Space
-* Who will be the company's liaison to contact if any questions/problems arise during the workshop?  What is their contact information?  During parts of the workshop will they be on-site?
-* Which rooms/spaces are available for workshop use?
-* May we (and _can_ we -- sometimes there are reasons why it's logistically not possible) reconfigure spaces freely, for instance moving desks and tables, as long as we promise to diligently restore their original configuration before leaving on Saturday?
-* Can the location also be used for teacher training and/or after-party?
-* What is a suitable space, if any, to put children and a babysitter?
+장소조사
+### 공간
+* 질문/문제가 발생할 경우 연락할 회사의 연락 담당자는 누구입니까? 그들의 연락 정보는? 워크샵동안 그들이 현장에 참석합니까?
+* 워크샵동안 사용가능한 공간은 어디입니까?
+* 토요일에 떠나기 전에 원래상태로 배치해놓겠다 약속하면 책상을 옮기는 것과 같이 공간을 자유롭게 재구성하는 것이 가능합니까?
+* 수업트레이닝과 뒷풀이에도 사용이 가능한 곳입니까?
+* 아이들과 베이비시터가 있을만한 장소가 있다면 어디입니까? 
 
-### Security
-* What arrangements need to be made regarding picking up/dropping off keys?
-* Does there need to be someone down at the door?
-* Will they require non-disclosure agreements?
-* Are there rooms/areas that must be kept off-limits?
-* Are there any special arrangements to make regarding security?  For example, providing a list of attendee names some number of days/weeks in advance.
-* Is there a firm time when they need us to depart, or are they fine with letting us stay until the last person is done? (Particularly relevant for the unpredictable nature of Installfest.)
+### 보안
+* 열쇠를 가져오고 갖다놓는 것과 관련해서 어떻게 해야 합니까?
+* 문앞에 누군가가 서 있어야 합니까?
+* 비공개 계약이 필요합니까?
+* 출입금지 구역이 있습니까?
+* 보안과 관련해서 사전에 참석자 명단을 제출하는 것과 같은 특별한 준비가 필요합니까?
+* 우리가 떠나야 하는 회사 시간이 있습니까? 혹은 마지막 사람이 끝날 때까지 머물러도 괜찮습니까?(특히 Installfest이 예측이 불가능하는 것과 관련이 있습니다.) 
 
-### Equipment
-* How many of the rooms/spaces for the workshop have screens/projectors?  Do we need to bring some if we are working in open spaces, or can they lend us monitors to instead plug into?
-* Are there Mac and PC adaptors available for each of those screens/projectors/monitors?
-* Are there extension cords/connectors that the workshop can use?
-* Is there a microphone and amplified system available to use for the large group announcements sections?
-* Is there central air/heat on the weekends? If not, are there extra fans/space heaters that can be used if needed?
-* May we use any whiteboards and chalkboards we find in the rooms/spaces?  If so, may we erase whatever is already on those?
-* Anything not-completely-obvious to know about using their equipment?
-* What is the wifi login?
+### 장비
+* 워크샵을 위한 공간 중 스크린/프로젝터를 가지고 있는 곳이 몇 곳입니까? 만약 오픈된 공간에서 진행할 경우 연결 할 모니터를 빌려주나요, 우리가 몇개를 가져가야하나요?
+* 각 스크린/프로젝터/모니터에 Mac 및 PC 어댑터가 있습니까?
+* 워크샵에서 사용할 수 있는 연장 코드/커넥터가 있습니까?
+* 대규모의 그룹 발표 섹션에서 사용가능한 마이크가 있습니까?
+* 주말에 중앙난방이 가능합니까? 그렇지 않다면 필요할 때 쓸 수 있는 여분의 선풍기/히터가 있습니까?
+* 워크샵 장소에 있는 화이트보트나 칠판을 사용할 수 있습니까? 가능하다면 거기에 이미 쓰여 있는 내용을 지울 수 있습니까?
+* 장비를 사용함에 있어 더 알아야 할 내용이 있습니까?
+* wifi 로그인은 어떻게 해야 합니까?
 
-### Parking
-* Is there public parking nearby they can recommend?
-* Is there bike parking anywhere in the building that would be available for the workshop?
+### 주차
+* 근처에 추천할만한 공용주차장이 있습니까?
+* 워크샵동안 사용 가능한 건물 내 자전거 주차장이 있습니까?
 
-### Catering
-* Which of the meals for the workshop are they planning on covering?
-* Would they prefer to arrange any of the food?  Or would they prefer we arrange and have the caterers submit any invoices to the location host?
-* Can the caterer accommodate special dietary requests, e.g. food allergies?  Or do they prefer we arrange for those meals separately?
-* If there are snacks/drinks at the office, are these available to people at the workshop?
+### 음식제공
+* 워크샵동안 어떤 식사를 제공할 계획입니까?
+* 우리가 어떤 음식을 준비하는 것을 선호합니까? 혹은 우리가 준비하고 업체가 주최측에 청구서를 제출하도록 할까요?
+* 업체가 음식 알러지와 같은 특별 식단 요청을 받아줄 수 있습니까? 혹은 우리가 그 식사를 별도로 준비해야 합니까?
+* 장소에 간식/음료수가 있는 경우, 워크샵에 있는 사람들에게 제공해도 되는 것입니까?
 
-### Cleanup
-* Where are trash receptacles?
-* Where are compost/trash/recycle bags located?
-* Where should filled compost/trash/recycle bags be put?
-* Do they have any specific cleanup/composting requirements?
-* Do we need to wipe down all tables or just handle the trash and put tables back where they were before the event?  
-* Would they prefer we use all disposable dishes and utensils?
-* Would they prefer that we throw out any left over food?  Or wrap it and leave it in the fridge for any of their people?
+### 청소
+* 쓰레기통이 어디에 있습니까?
+* 비닐/쓰레기/재활용 봉투는 어디에 있습니까?
+* 꽉찬 비닐/쓰레기/재활용 봉투는 어디에 둬야 합니까?
+* 청소와 관련해서 구체적인 요구사항이 있습니까?
+* 테이블들을 닦거나 쓰레기를 처리하고 테이블을 원래 있던 상태로 되돌려 놓아야 합니까?
+* 우리가 일회용 접시와 도구를 사용하기를 선호합니까?
+* 남은 음식을 버리기를 선호합니까? 혹은 다른 사람을 위해 포장해서 냉장고에 넣어놓을까요?
 
 ### Plug
-* When would they like to have a plug?  (Friday night?  Saturday Morning?)  Would they like to make a recruiting pitch too?
-* Will they have some of their people attending to do this?
-* If no, do they have any specific projects they would like us to mention when we’re giving the plug?
-* Would they like to provide company-branded stickers for Installfest?
-* Would they like to provide any other promotional shwag, such as company t-shirts, buttons, etc?
+* 언제 plug를 가지기를 원하나요? (금요일 밤? 토요일 아침?) 채용관련 이야기도 하기를 원하나요?
+* 이 일을 위해 그쪽에서 참석하는 사람들이 있습니까?
+* 만약 없다면, 우리가 plug를 제공할 때 언급하기를 원하는 특정 프로젝트가 있습니까?
+* Installfest에서 회사브랜드 스티커를 제공하기를 원합니까?
+* 그밖에 회사 티셔츠,배지 등과 같은 프로모션 기념품을 제공하기를 원합니까?
 
 ### [Back to pre-workshop tasks](Pre-workshop-tasks.md)
